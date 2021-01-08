@@ -1,0 +1,16 @@
+{
+  "name": "asyncjs",
+  "version": "1.0.0",
+  "description": "Learning Asynchronous JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Callbacks",
+    "Promises",
+    "Async-Await"
+  ],
+  "author": "Fernando Resendiz <resendizbautista801@gmail.com>",
+  "license": "ISC"
+}
