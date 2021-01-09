@@ -10,8 +10,8 @@ fetchData(API)
         console.log(RicksData.name)
         return fetchData(RicksData.origin.url)
     })
-    .then((RicksLocationData) => {
-        console.log(RicksLocationData.dimension)
+    .then((RicksOriginData) => {
+        console.log(RicksOriginData.dimension)
     })
     .catch((error)=>{
         console.log(error)
